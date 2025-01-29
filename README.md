@@ -6,3 +6,4 @@ listar de nomes na tela
 sorte um nome
 limpando tela e trocando a mensagem
 não permitir um nome em branco
+deploy:https://amigo-secreto-steel-alpha.vercel.app/
